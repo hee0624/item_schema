@@ -27,4 +27,12 @@
  {'key': 'competentAuthority', 'title': '管理单位'},
  {'key': 'dateOfApproval', 'title': '批准时间'},
  {'key': 'approvalNumber', 'title': '批准文号'}]
+社会 > 电视台频道
+[{'key': 'name', 'title': '中文名'},
+ {'key': 'foreignName', 'title': '外文名'},
+ {'key': 'alternateName', 'title': '别称'},
+ {'key': 'type', 'title': '类型'},
+ {'key': 'dateOfEstablishment', 'title': '成立时间'},
+ {'key': 'majorProgram', 'title': '代表节目'},
+ {'key': 'language', 'title': '语言'}]
 ```
